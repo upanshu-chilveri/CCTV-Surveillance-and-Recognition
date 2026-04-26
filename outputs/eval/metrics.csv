@@ -1,0 +1,2 @@
+rank-1,rank-5,rank-10,rank-20,mAP,mINP,intra_class_dist,inter_class_dist,dist_ratio,silhouette_score
+80.75,91.02,93.9,95.38,66.19,25.44,0.4947,0.9871,1.9951,0.1786
